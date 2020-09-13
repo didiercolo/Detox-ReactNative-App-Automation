@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/didierstudio/Downloads/ReactCalculator/node_modules/react-native/React/Executors/RCTJSCWrapper.h
